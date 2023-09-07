@@ -1,8 +1,6 @@
 
 const background = document.querySelector('html');
 console.log(background)
-// background.style.backgroundColor = "#ffb703";
-
 
 window.addEventListener("resize", myChangeBackgroundColor);
 
